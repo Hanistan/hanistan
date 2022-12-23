@@ -1,0 +1,8 @@
+http://connect.d6.co.za:301
+http://northlink.co.za:301
+http://www.ecexams.co.za:200
+http://developer.yammer.com:301
+http://m.siyavula.com:301
+http://www.speedtest.net:301
+http://ott-catchup.revlet.net:200
+http://moodle.sacob.com:301
